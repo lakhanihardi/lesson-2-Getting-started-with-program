@@ -1,0 +1,5 @@
+print("hello world")
+print(28)
+print("Welcome \n")
+print("Coding ",14)
+print("Codingal",end='white')
